@@ -1,2 +1,1 @@
-# Usability-Heuristics
-This repository contains some examples with description about heuristic topics.
+# Usability Heuristics for User Interface Design
