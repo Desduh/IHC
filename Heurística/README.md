@@ -8,7 +8,8 @@ Um otímo exemplo de design estético e minimalista é o Banco do Brasil, que po
 
 # Erros:
 
-## 4 - bláblá
+## Nº 8: Design estético e minimalista
 
-aaaaa
+A Amazon possuí um disign extremamente carregado de detalhes, dificultando muito a compreenção da página como um todo, muitas vezes sendo desconfortavel usa-la por causa da poluição visual.
 
+<img src="https://github.com/Desduh/IHC/blob/main/Heur%C3%ADstica/imgs/amazon.png?raw=true"> 
