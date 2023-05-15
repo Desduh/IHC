@@ -30,7 +30,7 @@ O Google Maps pode apresentar problemas de correspondência entre o sistema e o 
 
 A plataforma Shoppe apresenta um problema em relação à liberdade do usuário ao navegar pelo site. Após adicionar um produto aos favoritos, pode ser difícil retornar rapidamente à página principal. Para voltar, o usuário precisa clicar três vezes na seta de retorno, o que pode ser incômodo e pouco intuitivo. 
 
-<img src="https://raw.githubusercontent.com/Desduh/IHC/main/Heur%C3%ADstica/imgs/shopee.PNG?token=GHSAT0AAAAAACAJHMDHYBIWHDNWHETN2JFGZDCL4JA">
+<img src="https://raw.githubusercontent.com/Desduh/IHC/main/Heur%C3%ADstica/imgs/shopee.PNG?token=GHSAT0AAAAAACAJHMDHGFQPE66VCVEDYYA2ZDCMCEA">
 
 ## Nº 8: Design estético e minimalista
 
