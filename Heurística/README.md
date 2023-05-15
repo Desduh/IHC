@@ -16,7 +16,7 @@ O Google é conhecido por seguir rigorosamente os princípios de design de inter
 
 A Netflix acompanha e salva o progresso em séries e filmes, permite que você continuar de onde parou e ainda o algoritmo adiciona filmes à sua lista de favoritos e sugere conteúdos com base nas suas preferências individuais. Isso cria uma sensação de reconhecimento pessoal e ajuda a oferecer uma experiência altamente personalizada.
 
-<img src="https://raw.githubusercontent.com/Desduh/IHC/main/Heur%C3%ADstica/imgs/netflix.jpg?token=GHSAT0AAAAAACAJHMDGKP5BSI6M4SF4KD56ZDCMLAQ">
+<img src="https://raw.githubusercontent.com/Desduh/IHC/main/Heur%C3%ADstica/imgs/netflix.jpg?token=GHSAT0AAAAAACAJHMDGA63L25MQQDVINO3EZDCNALQ">
 
 ## Nº 8: Design estético e minimalista
 
@@ -48,7 +48,7 @@ A plataforma Shoppe apresenta um problema em relação à liberdade do usuário 
 
 O Photo Editor Pro tem um fluxo de trabalho complexo e opções limitadas de personalização, o que dificulta a obtenção de resultados desejados de forma rápida e eficiente. Os usuários podem se deparar com uma interface confusa, opções de edição restritas e um número excessivo de etapas para concluir tarefas simples, o que pode levar a uma experiência de usuário menos satisfatória em termos de flexibilidade e eficiência de uso. 
 
-<img src="https://raw.githubusercontent.com/Desduh/IHC/main/Heur%C3%ADstica/imgs/editor.png?token=GHSAT0AAAAAACAJHMDHOR2VJKFTZVEURFTMZDCMR2Q">
+<img src="https://raw.githubusercontent.com/Desduh/IHC/main/Heur%C3%ADstica/imgs/editor.png?token=GHSAT0AAAAAACAJHMDH66MQREOSRTZMS32EZDCM7VQ">
 
 ## Nº 8: Design estético e minimalista
 
