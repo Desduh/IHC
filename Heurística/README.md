@@ -1,9 +1,12 @@
-# Heurísticas: Detalhados com exemplos.
-
+<div align="center">
+  
+  # 🖥️ Heurísticas: Detalhados com exemplos.
+  
+</div>
 Jakob Nielsen desenvolveu 10 princípios gerais conhecidos como heurísticas de design de interação. Essas heurísticas são regras gerais e não diretrizes de usabilidade específicas. O objetivo deste trabalho é identificar e documentar essas heurísticas em situações cotidianas.
 <br>
 
-## Acertos:
+## 👍 Acertos:
 
 ### Nº 1: Visibilidade do status do sistema
 
@@ -37,7 +40,7 @@ O Excel possui um sistema que quando há um erro em uma fórmula ou dado inserid
 
 <br>
 
-## Erros:
+## 👎 Erros:
 
 ### Nº 2: Correspondência entre o sistema e o mundo real
 
